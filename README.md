@@ -30,9 +30,19 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=goorm12&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goorm12&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=goorm12&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=goorm12&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=goom12&show_icons=true" />
+</picture>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goorm12&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
