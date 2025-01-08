@@ -2,9 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=egg&color=aacff3&height=240&text=Goorm's&nbsp;GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요 빈운기 입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> "작은 아이디어로부터 시작해, 큰 가치를 만들어내는 개발자가 되겠습니다." </div> 
-    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요 빈운기 입니다. </h2>
+        
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=000000&width=580&lines=%22%EC%9E%91%EC%9D%80+%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A1%9C%EB%B6%80%ED%84%B0+%EC%8B%9C%EC%9E%91%ED%95%B4%2C+%ED%81%B0+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EB%82%B4%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
